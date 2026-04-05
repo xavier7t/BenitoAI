@@ -68,7 +68,7 @@ Feature requests are welcome. Open an issue and include:
 "BenitoAI" is the current working name of the project. "Benito" is the middle name of primary developer. It has the meaning of "Blessed" in Spanish. It represents the idea of a friendly, local AI companion on macOS. Branding and naming may evolve as the product matures.
 
 ## Previous Releases
-* [20260405-BenitoAI-v0.1.1b2.zip](https://github.com/user-attachments/files/26491429/BenitoAI-v0.1.1b2.zip)
+* [20260405 - BenitoAI-v0.1.1](https://github.com/user-attachments/files/26491429/BenitoAI-v0.1.1b2.zip)
   * Added settings panel with localization, dark mode preference support
   * Added chat & folder import & export support
   * Added localization support for French, Spanish and Traditional Chinese (More coming soon)
