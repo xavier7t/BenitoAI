@@ -67,4 +67,4 @@ Feature requests are welcome. Open an issue and include:
 
 ## About the Name
 
-"BenitoAI" is the current working name of the project. "Benito" the middle name of primary developer. It has the meaning of "Blessed" in Spanish. It represents the idea of a friendly, local AI companion on macOS. Branding and naming may evolve as the product matures.
+"BenitoAI" is the current working name of the project. "Benito" is the middle name of primary developer. It has the meaning of "Blessed" in Spanish. It represents the idea of a friendly, local AI companion on macOS. Branding and naming may evolve as the product matures.
