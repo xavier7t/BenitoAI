@@ -4,6 +4,9 @@ BenitoAI is a local-only macOS chat app for Ollama models, built with SwiftUI fo
 
 <img width="1196" height="879" alt="FeatureDemo-v0.1.0" src="https://github.com/user-attachments/assets/dada9b79-9f7d-43fd-b1e0-8b51f204d2b6" />
 
+## Releases
+Download Now: [BenitoAI-v0.1.0.zip](https://github.com/user-attachments/files/26486750/BenitoAI-v0.1.0.zip)
+
 
 ## Key Features
 
