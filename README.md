@@ -6,7 +6,7 @@ BenitoAI is a local-only macOS chat app for Ollama models, built with SwiftUI fo
 
 ## Table of Contents
 
-- [Releases](#releases)
+- [Downlowd](#download)
 - [Key Features](#key-features)
 - [Prerequisites](#prerequisites)
 - [Current Limitations](#current-limitations)
@@ -14,11 +14,12 @@ BenitoAI is a local-only macOS chat app for Ollama models, built with SwiftUI fo
 - [If You Need a Feature](#if-you-need-a-feature)
 - [Third-Party Library Usage](#third-party-library-usage)
 - [About the Name](#about-the-name)
+- [Previous Releases](#previous-releases)
 
-## Releases
-Download Now: [BenitoAI-v0.1.0.zip](https://github.com/user-attachments/files/26486750/BenitoAI-v0.1.0.zip)
+## Download
+**Download Now**
 
-* [20260405 - BenitoAI-v0.1.0](https://github.com/user-attachments/files/26486750/BenitoAI-v0.1.0.zip)
+[BenitoAI-v0.1.1.zip](https://github.com/user-attachments/files/26490978/BenitoAI-v0.1.1.zip)
 
 ## Key Features
 
@@ -36,9 +37,6 @@ Download Now: [BenitoAI-v0.1.0.zip](https://github.com/user-attachments/files/26
 - macOS 26
 
 ## Current Limitations
-
-- No localization support yet (planned)
-- No settings panel yet (planned)
 - No cloud model support (local models only)
 - No LaTeX rendering support yet
 - Supporting macOS 26+ for now. (min support for faster relase, planning to support older versions later)
@@ -68,3 +66,12 @@ Feature requests are welcome. Open an issue and include:
 ## About the Name
 
 "BenitoAI" is the current working name of the project. "Benito" is the middle name of primary developer. It has the meaning of "Blessed" in Spanish. It represents the idea of a friendly, local AI companion on macOS. Branding and naming may evolve as the product matures.
+
+## Previous Releases
+* [20260405 - BenitoAI-v0.1.1](https://github.com/user-attachments/files/26490978/BenitoAI-v0.1.1.zip)
+  * Added settings panel with localization, dark mode preference support
+  * Added chat & folder import & export support
+  * Added localization support for French, Spanish and Traditional Chinese (More coming soon)
+  * Fixed system prompt might not show up
+* [20260405 - BenitoAI-v0.1.0](https://github.com/user-attachments/files/26486750/BenitoAI-v0.1.0.zip)
+  * First releaes
