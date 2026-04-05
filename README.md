@@ -18,8 +18,8 @@ BenitoAI is a local-only macOS chat app for Ollama models, built with SwiftUI fo
 
 ## Download
 **Download Now**
+[BenitoAI-v0.1.1b2.zip](https://github.com/user-attachments/files/26491429/BenitoAI-v0.1.1b2.zip)
 
-[BenitoAI-v0.1.1.zip](https://github.com/user-attachments/files/26490978/BenitoAI-v0.1.1.zip)
 
 ## Key Features
 
@@ -68,10 +68,10 @@ Feature requests are welcome. Open an issue and include:
 "BenitoAI" is the current working name of the project. "Benito" is the middle name of primary developer. It has the meaning of "Blessed" in Spanish. It represents the idea of a friendly, local AI companion on macOS. Branding and naming may evolve as the product matures.
 
 ## Previous Releases
-* [20260405 - BenitoAI-v0.1.1](https://github.com/user-attachments/files/26490978/BenitoAI-v0.1.1.zip)
+* [20260405-BenitoAI-v0.1.1b2.zip](https://github.com/user-attachments/files/26491429/BenitoAI-v0.1.1b2.zip)
   * Added settings panel with localization, dark mode preference support
   * Added chat & folder import & export support
   * Added localization support for French, Spanish and Traditional Chinese (More coming soon)
   * Fixed system prompt might not show up
-* [20260405 - BenitoAI-v0.1.0](https://github.com/user-attachments/files/26486750/BenitoAI-v0.1.0.zip)
+* 20260405 - BenitoAI-v0.1.0
   * First release
