@@ -74,4 +74,4 @@ Feature requests are welcome. Open an issue and include:
   * Added localization support for French, Spanish and Traditional Chinese (More coming soon)
   * Fixed system prompt might not show up
 * [20260405 - BenitoAI-v0.1.0](https://github.com/user-attachments/files/26486750/BenitoAI-v0.1.0.zip)
-  * First releaes
+  * First release
