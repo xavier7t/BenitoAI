@@ -18,8 +18,8 @@ BenitoAI is a local-only macOS chat app for Ollama models, built with SwiftUI fo
 
 ## Download
 **Download Now**
-[BenitoAI-v0.1.1b2.zip](https://github.com/user-attachments/files/26491429/BenitoAI-v0.1.1b2.zip)
 
+[BenitoAI-v0.1.2b3.zip](https://github.com/user-attachments/files/26661950/BenitoAI-v0.1.2b3.zip)
 
 ## Key Features
 
@@ -28,7 +28,7 @@ BenitoAI is a local-only macOS chat app for Ollama models, built with SwiftUI fo
 - Markdown and code block message rendering
 - Chat organization (folders/chats)
 - Chat- and/or folder-specific system prompt
-- Super lightweighted, app size < 5MB (not including saved chats and folders).
+- Super lightweighted, app size < 20MB (not including saved chats and folders).
 - Dark mode
 
 ## Prerequisites
@@ -38,7 +38,6 @@ BenitoAI is a local-only macOS chat app for Ollama models, built with SwiftUI fo
 
 ## Current Limitations
 - No cloud model support (local models only)
-- No LaTeX rendering support yet
 - Supporting macOS 26+ for now. (min support for faster relase, planning to support older versions later)
 
 ## If You Found an Issue
@@ -61,13 +60,22 @@ Feature requests are welcome. Open an issue and include:
 
 ## Third-Party Library Usage
 
-- [swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui): used for Markdown rendering in chat messages. Big shout out to its contributors!
+- [Textual](https://github.com/gonzalezreal/textual/): used for Markdown rendering in chat messages. Big shout out to its contributors!
 
 ## About the Name
 
 "BenitoAI" is the current working name of the project. "Benito" is the middle name of primary developer. It has the meaning of "Blessed" in Spanish. It represents the idea of a friendly, local AI companion on macOS. Branding and naming may evolve as the product matures.
 
 ## Previous Releases
+* [20260412 - BenitoAI-v0.1.2.zip](https://github.com/user-attachments/files/26661950/BenitoAI-v0.1.2b3.zip)
+  * Added inline selection and copy
+  * Added auto-open last opened chat
+  * Added folder detail and direct navigation to chat
+  * Added folder row to show subfolder count
+  * Added cmd + N to create new chat
+  * Added reusable prompt by typing "#".
+  * Added LaTex rendering support.
+
 * [20260405 - BenitoAI-v0.1.1](https://github.com/user-attachments/files/26491429/BenitoAI-v0.1.1b2.zip)
   * Added settings panel with localization, dark mode preference support
   * Added chat & folder import & export support
